@@ -136,4 +136,10 @@ body {
     .gtulogo {
         width: 50%;
     }
+        .top{
+        font-size: 20px;
+    }
+    .vrsn{
+        font-size: 15px;
+    }
 }
